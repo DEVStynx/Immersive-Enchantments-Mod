@@ -1,0 +1,10 @@
+{
+  "type": "immersive_enchantments:enchantment_station",
+  "ingredients": [
+    {
+      "item": "minecraft:lapis_lazuli"
+    }
+  ],
+  "enchantment": true,
+  "enchantmentid": 16
+}

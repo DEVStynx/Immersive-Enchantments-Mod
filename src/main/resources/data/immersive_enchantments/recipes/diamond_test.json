@@ -1,0 +1,21 @@
+{
+  "type": "immersive_enchantments:enchantment_station",
+  "ingredients": [
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "enchantment": true,
+  "enchantmentid": 16,
+  "output": {
+    "item": "minecraft:diamond_sword",
+    "nbt": {
+      "Enchantments": [
+        {
+          "id": "minecraft:sharpness",
+          "lvl": 1
+        }
+      ]
+    }
+  }
+}

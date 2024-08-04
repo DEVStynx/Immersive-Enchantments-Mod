@@ -1,0 +1,14 @@
+{
+  "type": "immersive_enchantments:enchantment_station",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+
+    }
+  ],
+  "enchantment": false,
+  "output": {
+    "item": "minecraft:potato"
+  }
+
+}
